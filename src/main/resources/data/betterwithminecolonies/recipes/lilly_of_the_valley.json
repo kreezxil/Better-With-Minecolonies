@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xx ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "#": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "minecraft:lilly_of_the_valley",
+    "count": 8
+  }
+}

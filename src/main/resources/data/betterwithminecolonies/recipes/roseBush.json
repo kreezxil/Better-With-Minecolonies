@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " # ",
+    " xx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "#": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "minecraft:rose_bush",
+    "count": 8
+  }
+}

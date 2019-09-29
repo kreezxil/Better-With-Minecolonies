@@ -1,0 +1,29 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (28 is current forge version)
+issueTrackerURL="https://github.com/kreezxil/better-with-minecolonies/issues" #optional
+[[mods]] #mandatory
+modId="betterwithminecolonies" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Better With Minecolonies" #mandatory
+updateJSONURL="https://www.curseforge.com/minecraft/mc-mods/better-with-minecolonies/files/all" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/better-with-minecolonies" #optional
+logoFile="" #optional
+credits="Kreezxil! If you got this anywhere than at CurseForge you should be ashamed of yourself!" #optional
+authors="Love, Cheese and small house plants" #optional
+description='''
+A mod that fixes a bunch of recipes to make 1.14.4 more enjoyable especially when
+used with Minecolonies.
+
+Note: Minecolonies is not a requirement to benefit!'''
+[[dependencies.examplemod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[28,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"

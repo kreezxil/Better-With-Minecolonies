@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "###"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "#": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:path_block",
+    "count": 64
+  }
+}
