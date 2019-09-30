@@ -7,14 +7,15 @@
   "key": {
     "x": [
       {
-        "item": "minecraft:fire_coral_fan"
+        "item": "minecraft:brain_coral_fan"
       },
       {
-        "item": "minecraft:fire_coral"
+        "item": "minecraft:brain_coral"
       }
-    ],
+    ]
+  },
     "result": {
-      "item": "minecraft:fire_coral_block"
+      "item": "minecraft:brain_coral_block"
     }
-  }
+
 }
