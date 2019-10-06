@@ -1,20 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "   ",
-    " # ",
-    "  x"
+    "xxx",
+    "x#x",
+    "xxx"
   ],
   "key": {
     "x": {
-      "item": "minecraft:wheat_seeds"
+      "item": "minecraft:pink_carpet"
     },
     "#": {
-      "item": "minecraft:flower_pot"
+      "item": "minecraft:water_bucket"
     }
   },
   "result": {
-    "item": "minecraft:allium",
+    "item": "minecraft:white_carpet",
     "count": 8
   }
 }

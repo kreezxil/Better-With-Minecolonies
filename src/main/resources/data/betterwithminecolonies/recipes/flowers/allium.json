@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "   ",
-    " #x",
-    "   "
+    "x  ",
+    " # ",
+    "  x"
   ],
   "key": {
     "x": {
@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "minecraft:blue_orchid",
+    "item": "minecraft:allium",
     "count": 8
   }
 }
