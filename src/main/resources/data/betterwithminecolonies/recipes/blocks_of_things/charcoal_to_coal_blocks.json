@@ -7,11 +7,11 @@
   ],
   "key": {
     "s": {
-      "item": "charcoal:charcoal_block"
+      "item": "charcoalblock:charcoal_block"
     }
   },
   "result": {
     "item": "minecraft:coal_block",
-    "count": 6
+    "count": 3
   }
 }
