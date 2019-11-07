@@ -1,10 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {"item": "minecraft:poppy"},{"item": "minecraft:wheat_seeds"}
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  x",
+    " # ",
+    " xx"
   ],
-  "result": {
-    "item": "minecraft:red_tulip",
-    "count": 2
-  }
+  "key": {
+    "#": {
+      "item": "minecraft:poppy",
+    },
+    "x":{
+      "item": "minecraft:wheat_seeds",
+    }
+},
+"result": {
+"item": "minecraft:red_tulip",
+"count": 2
+}
 }
