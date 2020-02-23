@@ -1,20 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "x  ",
-    " # ",
-    "  x"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:wheat_seeds"},{"item": "minecraft:flower_pot"}
   ],
-  "key": {
-    "x": {
-      "item": "minecraft:wheat_seeds"
-    },
-    "#": {
-      "item": "minecraft:flower_pot"
-    }
-  },
   "result": {
     "item": "minecraft:allium",
-    "count": 8
+    "count": 2
   }
 }
+
+
