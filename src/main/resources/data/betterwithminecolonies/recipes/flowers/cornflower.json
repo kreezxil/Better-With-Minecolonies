@@ -1,20 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "x  ",
-    " #x",
-    "x  "
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:blue_orchid"},{"item": "minecraft:blue_orchid"}
   ],
-  "key": {
-    "x": {
-      "item": "minecraft:wheat_seeds"
-    },
-    "#": {
-      "item": "minecraft:flower_pot"
-    }
-  },
   "result": {
     "item": "minecraft:cornflower",
-    "count": 8
+    "count": 2
   }
 }
